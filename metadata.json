@@ -1,0 +1,8 @@
+{
+  "name": "Geolift - AI时代的GEO优化专家",
+  "description": "Geolift致力于帮助品牌在中国主流大模型(如DeepSeek、豆包、文心一言等)中获得更高曝光与优质收录，通过智能意图分析与AI原生内容重构，实现AI搜索时代的品牌跃迁。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
